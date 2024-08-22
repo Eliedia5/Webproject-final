@@ -1,0 +1,41 @@
+/* 
+	Purple: #970fff
+	red: #ff0000
+	black: #000000
+	light purple/pink: #e5bcff
+*/ 
+
+body {
+	background-color: #e5bcff;
+	color:#970fff;
+	padding: 10px 50px;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+p,table, h1, h2, p.pic {
+	text-align: center;
+}
+
+h1,h2 {
+	background-color: #000000;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+th,td {
+  border: #ff0000 ridge 6px;
+  padding: 10px;
+}
+
+ul {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 21px;
+}

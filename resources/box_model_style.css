@@ -1,0 +1,47 @@
+/*
+  white: #FFFFFF
+  Purple accent 1: #6a5acd
+  Orange accent 2: #C85207
+*/
+h1, h2,h3 {
+  color: #6a5acd ;
+}
+
+h1 {
+  text-align: center;
+}
+
+th,td {
+  border: #C85207 double 8px;
+  padding: 15px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  font-color: #6a5acd;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C85207;
+}
+
+div {
+  background-color: #6a5acd;
+  color: #FFFFFF;
+  width: 646px;
+  padding: 15px;
+  border: #C85207 ridge 10px;
+  margin: 50px;
+}
+
+
+body {
+  padding: 10px 50px;
+}
